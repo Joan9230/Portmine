@@ -359,6 +359,24 @@ top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
 }
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 400px;
+}
+
+.inner { 
+    width: 800px;
+    height: 400px; 
+    margin: 0px;
+}
+
+.inner {
+    width: 800px;
+    height: 400px; 
+    margin: 0px;
+}
 
 .box {
     display: flex;
